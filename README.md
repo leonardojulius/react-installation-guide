@@ -33,3 +33,37 @@ Verify the version of Node.js installed.
 $ node  -v
 v14.17.5
 ```
+
+### Step 3: Installing NPM in Ubuntu
+
+Source from [www.tecmint.com](https://www.tecmint.com/install-reactjs-on-ubuntu/)
+```
+$ sudo apt install npm
+```
+
+```
+$ npm --version
+
+6.14.4  [Output]
+
+```
+
+### Step 4: Installing create-react-app Utility
+
+```
+sudo npm -g install create-react-app
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

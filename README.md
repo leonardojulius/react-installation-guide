@@ -93,6 +93,18 @@ $ cd tecmint-app
 $ npm start
 ```
 
+You will end up getting the output below showing you how to access the application on the browser.
+
+![](https://www.tecmint.com/wp-content/uploads/2021/02/run-react-app.png)
+
+Fire up your browser and browse your server’s IP address
+
+```
+http://server-ip:3000
+```
+
+![](https://www.tecmint.com/wp-content/uploads/2021/02/access-react-app-on-browser.png)
+
 
 
 

@@ -4,6 +4,8 @@ Layout Guide [Github-Formatting](https://docs.github.com/en/get-started/writing-
 
 --Arrange By Julius Leonardo
 
+![](https://d6vdma9166ldh.cloudfront.net/media/images/7c82c3ac-e187-473d-981f-f44d55d7a446.jpg)
+
 ### Step 1: Update APT index
 
 ```

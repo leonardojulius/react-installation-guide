@@ -1,6 +1,6 @@
-<p align="center">
+<h1><p align="center">
 Install React Application on Ubuntu
-</p>
+</p></h1>
 
 <p align="center">
   <img src="https://d6vdma9166ldh.cloudfront.net/media/images/7c82c3ac-e187-473d-981f-f44d55d7a446.jpg?raw=true" alt="Sublime's custom image"/>

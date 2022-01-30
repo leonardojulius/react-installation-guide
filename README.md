@@ -63,7 +63,7 @@ $ create-react-app --version
 
 4.0.1  [Output]
 ```
-### Step 5: 
+### Step 5: Create & Launch Your First React Application
 
 
 

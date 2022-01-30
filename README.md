@@ -54,6 +54,16 @@ $ npm --version
 sudo npm -g install create-react-app
 ```
 
+![](https://www.tecmint.com/wp-content/uploads/2021/02/Install-create-react-app.png)
+
+Once installed, you can confirm the version of installed by running:
+
+```
+$ create-react-app --version
+
+4.0.1  [Output]
+```
+### Step 5: 
 
 
 

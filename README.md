@@ -1,13 +1,16 @@
+<p align="center">
+Install React Application on Ubuntu
+</p>
+
+<p align="center">
+  <img src="https://d6vdma9166ldh.cloudfront.net/media/images/7c82c3ac-e187-473d-981f-f44d55d7a446.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
 Source from [computingforgeeks.com](https://computingforgeeks.com/install-node-js-14-on-ubuntu-debian-linux/).
 
 Layout Guide [Github-Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 --Arrange By Julius Leonardo
-
-
-<p align="center">src="https://d6vdma9166ldh.cloudfront.net/media/images/7c82c3ac-e187-473d-981f-f44d55d7a446.jpg"></p>
-
-
 
 ### Step 1: Update APT index
 

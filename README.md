@@ -1,5 +1,9 @@
 Source from [computingforgeeks.com](https://computingforgeeks.com/install-node-js-14-on-ubuntu-debian-linux/).
 
+Layout Guide [Github-Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+--Arrange By Julius Leonardo
+
 ### Step 1: Update APT index
 
 ```
@@ -64,6 +68,60 @@ $ create-react-app --version
 4.0.1  [Output]
 ```
 ### Step 5: Create & Launch Your First React Application
+
+```
+$ create-react-app tecmint-app
+```
+This takes roughly 5 minutes to install all the packages, libraries, and tools needed by the application. Some patience will come in handy.
+
+![](https://www.tecmint.com/wp-content/uploads/2021/02/create-react-app.png)
+
+If the creation of the application was successful, you will get the notification below giving the basic commands that you can run to start managing the application.
+
+![](https://www.tecmint.com/wp-content/uploads/2021/02/Summary-of-react-app.png)
+
+
+### To run the application, navigate into the app directory
+
+```
+$ cd tecmint-app
+```
+
+### Then run the command:
+
+```
+$ npm start
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

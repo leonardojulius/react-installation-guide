@@ -108,11 +108,10 @@ You will end up getting the output below showing you how to access the applicati
 Fire up your browser and browse your server’s IP address
 
 ```
-http://server-ip:3000
+http://server-ip:3000 // anyport
 ```
 
 ![](https://www.tecmint.com/wp-content/uploads/2021/02/access-react-app-on-browser.png)
-
 
 
 
